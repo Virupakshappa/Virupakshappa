@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **AWS and Spring Boot**
 
-- 👯 I’m looking to collaborate on [Leetcode stack](https://github.com/Virupakshappa/leetcode-stack)
-
 - 👨‍💻 All of my projects are available at [https://virupakshappa.github.io/](https://virupakshappa.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@vjanadri7](https://medium.com/@vjanadri7)
-
-- 💬 Ask me about **Java, MongoDB and microservices**
 
 - 📫 How to reach me **vjanadri7@gmail.com**
 
