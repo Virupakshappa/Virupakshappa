@@ -3,19 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virupakshappa&label=Profile%20views&color=0e75b6&style=flat" alt="virupakshappa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virupakshappa" alt="virupakshappa" /></a> </p>
-
 - 🔭 I’m currently working on [Expense tracker App](https://github.com/Virupakshappa/spring-boot-expense-tracker-app)
 
 - 🌱 I’m currently learning **AWS and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://virupakshappa.github.io/](https://virupakshappa.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@vjanadri7](https://medium.com/@vjanadri7)
+- 👨‍💻 Check out my portfolio [https://virupakshappa.github.io/](https://virupakshappa.github.io/)
 
 - 📫 How to reach me **vjanadri7@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vjanadri](https://www.linkedin.com/in/vjanadri)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
