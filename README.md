@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expense tracker App](https://github.com/Virupakshappa/spring-boot-expense-tracker-app)
 
-- 🌱 I’m currently learning **AWS and Spring Boot**
+- 🌱 I’m currently learning **AWS and C#**
 
 - 👨‍💻 Check out my portfolio [https://virupakshappa.github.io/](https://virupakshappa.github.io/)
 
