@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virupakshappa&label=Profile%20views&color=0e75b6&style=flat" alt="virupakshappa" /> </p>
 
-- 🔭 I’m currently working on [Real-Time Patient Monitor App]((https://github.com/Virupakshappa/PatientDataApp))
+- 🔭 I’m currently working on [Real-Time Patient Monitor App](https://github.com/Virupakshappa/PatientDataApp)
 
 - 🌱 I’m currently learning **AWS and C#**
 
